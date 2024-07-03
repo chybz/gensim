@@ -13,3 +13,6 @@ requires = [
     "setuptools",
     "wheel",
 ]
+
+[tool.poetry.dependencies]
+numpy = "^1"
